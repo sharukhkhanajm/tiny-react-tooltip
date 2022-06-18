@@ -10,6 +10,10 @@
 npm install --save tiny-react-tooltip
 ```
 
+## Screenshot
+
+![screenshot](https://github.com/sharukhkhanajm/tiny-react-tooltip/blob/main/Screenshot_1.png)
+
 ## Usage
 
 ```tsx
