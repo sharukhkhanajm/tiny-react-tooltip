@@ -15,12 +15,27 @@ npm install --save tiny-react-tooltip
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'tiny-react-tooltip'
+import { Tooltip } from 'tiny-react-tooltip'
 import 'tiny-react-tooltip/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return (
+      <>
+        <Tooltip content='Bottom tooltip' direction='bottom'>
+          Bottom
+        </Tooltip>
+        <Tooltip content='Top tooltip' direction='top'>
+          Top
+        </Tooltip>
+        <Tooltip content='Left tooltip' direction='left'>
+          Left
+        </Tooltip>
+        <Tooltip content='Right tooltip' direction='right'>
+          Right
+        </Tooltip>
+      </>
+    )
   }
 }
 ```
