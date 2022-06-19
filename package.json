@@ -1,6 +1,6 @@
 {
   "name": "tiny-react-tooltip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple and easy to use React tooltip.",
   "author": "sharukhkhanajm",
   "license": "MIT",
@@ -15,8 +15,9 @@
   "keywords": [
     "react",
     "tooltip",
-    "react-tooltip",
-    "simple-react-tooltip"
+    "react tooltip",
+    "simple react tooltip",
+    "react tooltip component"
   ],
   "scripts": {
     "build": "microbundle-crl --css-modules false --no-compress --format modern,cjs",

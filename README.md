@@ -14,6 +14,11 @@ npm install --save tiny-react-tooltip
 
 ![screenshot](https://github.com/sharukhkhanajm/tiny-react-tooltip/blob/main/Screenshot_1.png)
 
+## DEMO
+
+[Tiny React Tooltip Demo](https://codesandbox.io/s/tiny-react-tooltip-demo-lqy9qb?file=/src/App.js)
+
+
 ## Usage
 
 ```tsx
